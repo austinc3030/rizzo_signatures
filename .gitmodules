@@ -1,0 +1,4 @@
+[submodule "ghidra_rizzo"]
+	path = ghidra_rizzo
+	url = git@github.com:austinc3030/ghidra_rizzo.git
+	branch = main
