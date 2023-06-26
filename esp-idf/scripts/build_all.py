@@ -7,9 +7,9 @@ import shutil
 
 
 # User configurable variables
-ghidra_home = "/home/austinc3030/Desktop/yolink_ghidra_stuff/ghidra_10.4_DEV"
+ghidra_home = "/home/austinc/Desktop/yolink_ghidra_stuff/ghidra_10.4_DEV"
 if not os.path.exists(ghidra_home):
-    ghidra_home = "/Users/austinc3030/Desktop/yolink_ghidra_stuff/ghidra_10.4_DEV"
+    ghidra_home = "/Users/austinc/Desktop/yolink_ghidra_stuff/ghidra_10.4_DEV"
 
 ghidra_project_name = "esp-idf_rizzo_func_sig"  # should not exist and will be created
 
